@@ -1,0 +1,3 @@
+class HomeController {
+  String text;
+}
